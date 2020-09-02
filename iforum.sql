@@ -110,8 +110,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`sno`, `user_name`, `user_email`, `user_pass`, `timestamp`) VALUES
-(1, 'Sneh Joshi', 'snehj814@gmail.com', '$2y$10$cXVYbWe53JBvmY7i80H0bOgz5riL/Xwkwf4OmYdImO9k1JODMHlii', '2020-08-26 20:04:46'),
-(2, 'Garima Joshi', 'garima@gmail.com', '$2y$10$k8BMLcZPoic.3T/FwjQaMuraMRHvAJHiLElweGzc1Z2KXEKMMwQQS', '2020-08-26 20:05:41');
+(1, '', '', '$2y$10$cXVYbWe53JBvmY7i80H0bOgz5riL/Xwkwf4OmYdImO9k1JODMHlii', '2020-08-26 20:04:46'),
+(2, '', ', '$2y$10$k8BMLcZPoic.3T/FwjQaMuraMRHvAJHiLElweGzc1Z2KXEKMMwQQS', '2020-08-26 20:05:41');
 
 --
 -- Indexes for dumped tables
